@@ -217,6 +217,18 @@
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/Garena-6.9/EloBuddy.dll"
         }
       }
+    },
+	"f426379ba8782bbc9813798838eec7da": {
+      "Files": {
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "7a67fa70c61c1ba4be0439185c88091c",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/PBE-6.10.143.1514/EloBuddy.Core.dll"
+        },
+        "System\\EloBuddy.dll": {
+          "MD5": "8efe7cf2e04e4ffcf10e9edf815cd47e",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/PBE-6.10.143.1514/EloBuddy.dll"
+        }
+      }
     }
   },
   "Loader": {
