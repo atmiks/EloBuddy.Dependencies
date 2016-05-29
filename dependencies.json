@@ -17,7 +17,7 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "424d7ccc734d57c051600e25e1c9570a",
+      "MD5": "cb622da807ff124308a68ff0cf9f95f6",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
@@ -169,20 +169,20 @@
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/PBE-6.8.140.332/EloBuddy.dll"
         }
       }
-   },
-   "c950caeb477e4ab8698743f805093133": {
-     "Files": {
-      "System\\EloBuddy.Core.dll": {
-         "MD5": "c82746e08482fe39f32652e5dac3c4a9",
-         "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.8/EloBuddy.Core.dll"
-      },
-      "System\\EloBuddy.dll": {
-         "MD5": "25060dbf11b6eee66c0535ebd9daeaba",
-         "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.8/EloBuddy.dll"
+    },
+    "c950caeb477e4ab8698743f805093133": {
+      "Files": {
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "c82746e08482fe39f32652e5dac3c4a9",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.8/EloBuddy.Core.dll"
+        },
+        "System\\EloBuddy.dll": {
+          "MD5": "25060dbf11b6eee66c0535ebd9daeaba",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.8/EloBuddy.dll"
+        }
       }
-     }
-   },
-   "7bb951d84206d32b0476958c058df2d6": {
+    },
+    "7bb951d84206d32b0476958c058df2d6": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
           "MD5": "4bc6e82850ed08c58ecd0dece26dd47f",
@@ -194,7 +194,7 @@
         }
       }
     },
-   "d2b1431c8aa8bad1ff2371c58cea3c58": {
+    "d2b1431c8aa8bad1ff2371c58cea3c58": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
           "MD5": "d06e07633e8a5bebac220ceb3736a738",
@@ -206,7 +206,7 @@
         }
       }
     },
-	"b20a61eec3cc94cca034bfd80f363dc2": {
+    "b20a61eec3cc94cca034bfd80f363dc2": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
           "MD5": "712614db784d3724f30152128ca0fd3b",
@@ -218,7 +218,7 @@
         }
       }
     },
-	"f426379ba8782bbc9813798838eec7da": {
+    "f426379ba8782bbc9813798838eec7da": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
           "MD5": "7a67fa70c61c1ba4be0439185c88091c",
@@ -230,7 +230,7 @@
         }
       }
     },
-  "3439cbdd9a395ad99cb01534f4510c03": {
+    "3439cbdd9a395ad99cb01534f4510c03": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
           "MD5": "b2b4736c77fab2d487f5fd92be640029",
@@ -244,7 +244,7 @@
     }
   },
   "Loader": {
-    "MD5": "069d4832a6faf53168bf1c6d8b6f73b7",
+    "MD5": "bf122a29e69e5156ada6802096cfb0ce",
     "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
   }
 }
