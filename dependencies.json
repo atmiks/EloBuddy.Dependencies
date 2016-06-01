@@ -241,6 +241,18 @@
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.10/EloBuddy.dll"
         }
       }
+    },
+    "8f7a5273dea61c876f5c09a9bb07f83d": {
+      "Files": {
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "43dd28d63421c8aec2114e3224adeaca",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.11/EloBuddy.Core.dll"
+        },
+        "System\\EloBuddy.dll": {
+          "MD5": "3ba950ef3da4840f04fa0e95ca43374b",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.11/EloBuddy.dll"
+        }
+      }
     }
   },
   "Loader": {
