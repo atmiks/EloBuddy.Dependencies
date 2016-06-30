@@ -122,66 +122,6 @@
     }
   },
   "Patches": {
-    "d2b1431c8aa8bad1ff2371c58cea3c58": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "d06e07633e8a5bebac220ceb3736a738",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.9/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "f049c02838078132d6ad72e1e981b78f",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.9/EloBuddy.dll"
-        }
-      }
-    },
-    "b20a61eec3cc94cca034bfd80f363dc2": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "712614db784d3724f30152128ca0fd3b",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/Garena-6.9/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "3c2bc8976e6401cf0c49dd15fbbdff7c",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/Garena-6.9/EloBuddy.dll"
-        }
-      }
-    },
-    "3439cbdd9a395ad99cb01534f4510c03": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "848c159d4af0a9525492c0048eea5332",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.10/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "d5bc1af3d80af684442e505c4a8c110a",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.10/EloBuddy.dll"
-        }
-      }
-    },
-    "8f7a5273dea61c876f5c09a9bb07f83d": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "aa50dc8c25ad5d4144854528b874be52",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.11/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "31a5b0a02234ee84bb3ada88062d91e9",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.11/EloBuddy.dll"
-        }
-      }
-    },
-    "78501c75d33ae62b4077d980e03646cb": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "ee2ebccf41a61237264e6da26feb9937",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/Garena-6.11/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "0fd48625af162d614fc2859a06682189",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/Garena-6.11/EloBuddy.dll"
-        }
-      }
-    },
     "db67de534a8de4344bb6ce090b1521f8": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
@@ -209,11 +149,11 @@
     "8a3f0318089f9a2ad8ed162d3943aeb4": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
-          "MD5": "ab6176f20fdcd80d096d57dae06957dc",
+          "MD5": "5a69f1ca451f95e4d81d53a26f2f5e96",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.13/EloBuddy.Core.dll"
         },
         "System\\EloBuddy.dll": {
-          "MD5": "4581de265e931c1a84cdd6f5d8e78f05",
+          "MD5": "fefc5897e30331559d1e421c6e52be2c",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.13/EloBuddy.dll"
         }
       }
