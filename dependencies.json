@@ -158,7 +158,7 @@
         }
       }
     },
-	"3b35b1f65b1bcf7f633c6fe5bbfd0a3a": {
+    "3b35b1f65b1bcf7f633c6fe5bbfd0a3a": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
           "MD5": "0de768c303c16b43cafc2233f69748c5",
@@ -172,7 +172,7 @@
     }
   },
   "Loader": {
-    "MD5": "9c434e9a3bec7337bda28e4a0023d7f0",
+    "MD5": "dff2698c68f54ccafe333c7dbe998748",
     "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
   }
 }
